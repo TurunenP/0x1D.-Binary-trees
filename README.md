@@ -3,7 +3,6 @@
 > C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. This projects covers the concepts of binary trees! This was a project done with the contribution of my peer in many other SWE projects: [TurunenP](https://github.com/TurunenP) 
 
 At the end of this project, We were able to undesrtand these questions:
-
   
 * What is a binary tree
 * What is the difference between a binary tree and a Binary Search Tree
